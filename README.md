@@ -7,3 +7,5 @@
 * the Fetch API (lesson 3)
 
 The same project is built with each of these techniques. You'll find one folder for each.
+
+Link to Udacity original repo is [here](https://github.com/udacity/course-ajax)
